@@ -1,0 +1,24 @@
+1. Create an EC2 Instance on AWS 
+
+2. Install GIT on EC2
+
+3. Install JAVA 1.8  on EC2
+
+4. Install MAVEN 
+
+-> Before installing MAVEN, we need to install JAVA 1.8
+-> Before installing JENKINS, we need to install JAVA 11
+
+5. Establish a connection with JENKINS REPO on your EC2 Instance
+
+6. Provide the Key
+
+7. Install JAVA 11
+
+8. Install Jenkins and update-alternatives of Java 
+
+9. Start the Jenkins service
+
+10. Connect to the Public IP of the EC2 instance on the WEB-BROWSER using port 8080
+
+
